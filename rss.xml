@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chat gay BeurOnline]]></title>
         <description><![CDATA[Chat gay BeurOnline]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chat-gay-beuronline/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 22:44:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 22:46:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chat-gay-beuronline/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44bdf486-8175-4b40-aa14-0114871a992d.jpg">]]></description>
+            <link>https://thegrid.ai/chat-gay-beuronline/les-bogosses-de-beuronline/index.html</link>
+            <guid isPermaLink="false">6cbf88a1-f262-460b-a3b7-efeb88864eb3</guid>
+            <pubDate>Tue, 15 Mar 2016 22:46:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f129f28a-b76d-40e5-bf5e-493947de1462.jpg">]]></description>
-            <link>undefined22675876-79a0-4682-b06c-9d73222bbbe8/index.html</link>
+            <link>https://thegrid.ai/chat-gay-beuronline/22675876-79a0-4682-b06c-9d73222bbbe8/index.html</link>
             <guid isPermaLink="false">22675876-79a0-4682-b06c-9d73222bbbe8</guid>
             <pubDate>Tue, 15 Mar 2016 22:43:46 GMT</pubDate>
         </item>
