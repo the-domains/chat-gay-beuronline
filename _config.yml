@@ -1,0 +1,28 @@
+name: Chat gay BeurOnline
+favicon: null
+layout_spectrum: 0.37197894998826087
+typography_spectrum: 0.916492534102872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3926477753557265
+  lightness: 0.5361946453340352
+  saturation: 0.6831044394057244
+  rhythmicContrast: 0.2639943507965654
+purpose: []
